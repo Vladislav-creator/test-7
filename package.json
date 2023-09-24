@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Vladislav-creator.github.io/Test-2/",
+  "homepage": "https://Vladislav-creator.github.io/test-7/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Test-2/"
+    "build": "parcel build src/*.html --public-url /test-7/"
   },
   "repository": {
     "type": "git",
